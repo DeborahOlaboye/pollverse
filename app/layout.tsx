@@ -27,6 +27,7 @@ export const metadata: Metadata = {
   description: "Create and manage decentralized autonomous organizations with PollVerse. Build, govern, and grow your community on the blockchain.",
 };
 
+
 export default async function RootLayout({
   children,
 }: Readonly<{
